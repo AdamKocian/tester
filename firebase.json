@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "najlepsitester",
     "public": "public",
     "ignore": [
       "firebase.json",
